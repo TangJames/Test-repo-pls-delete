@@ -8,3 +8,8 @@
 - **color:** purple
 - **video game:** Final Fantasy
 - **animal:** Cat
+
+## Rika
+- **color:** green
+- **video games:** overwatch
+- **animal:** dog
